@@ -1,6 +1,6 @@
 # food-delivery-web
 ### **This project is still under development of adding a nodejs web server and mongoDB database. **
-### ** Following computer and user inteaction page by using reactjs. **
+### ** Following is computer and user inteaction page using reactjs and ant-design. **
 
 ## The loading page
 <img width="1440" alt="截屏2022-01-19 下午10 06 15" src="https://user-images.githubusercontent.com/85378870/150271543-0e883c83-8b47-4f18-ae9c-7b937bdbc1fa.png">
