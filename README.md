@@ -1,5 +1,5 @@
 # food-delivery-web
-### **This project is still under development by implementing a nodejs web server and mongoDB database. **
+### **This project is still under development of adding a nodejs web server and mongoDB database. **
 ### ** Following computer and user inteaction page by using reactjs. **
 
 ## The loading page
