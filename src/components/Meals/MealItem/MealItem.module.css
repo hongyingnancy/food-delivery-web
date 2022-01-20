@@ -1,0 +1,41 @@
+.meal {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 10px solid rgb(255, 251, 251);
+}
+
+.meal h3 {
+  margin: 0 0 0.25rem 0;
+}
+
+.description {
+  font-style: italic;
+  font-size: 15px;
+  padding-left: 20px;
+}
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #f87e0c;
+  /* font-size: 1.25rem; */
+  font-size: 20px;
+  padding-left: 20px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+img {
+  max-width: 100%
+}
+.image {
+  flex-basis: 20%
+}
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
