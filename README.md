@@ -1,4 +1,18 @@
 # food-delivery-web
+### This project is still under development by implementing a nodejs web server and mongoDB database. 
+### Following computer and user inteaction page by using reactjs. 
+
+## The loading page
+<img width="1440" alt="截屏2022-01-19 下午10 06 15" src="https://user-images.githubusercontent.com/85378870/150271543-0e883c83-8b47-4f18-ae9c-7b937bdbc1fa.png">
+
+## The menu page
+<img width="1440" alt="截屏2022-01-19 下午10 05 57" src="https://user-images.githubusercontent.com/85378870/150271624-71b92bee-86d9-4da3-b56c-71aace9b1542.png">
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
