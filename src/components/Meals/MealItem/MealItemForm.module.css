@@ -18,3 +18,13 @@
   background-color: #641e03;
   border-color: #641e03;
 }
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #f87e0c;
+  /* font-size: 1.25rem; */
+  font-size: 20px;
+  padding-left: 40px;
+
+}

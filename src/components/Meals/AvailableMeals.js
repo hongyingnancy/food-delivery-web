@@ -35,7 +35,7 @@ const DUMMY_MEALS = [
     id: "m2",
     name: "Tom Kha Ga",
     description: "Tom kha gai is unique in that it typically comes with lots of creamy coconut milk creating a rich sweet soup. Like most Thai foods, vegetarian options are easily adaptable by substituting a few ingredients.",
-    price: 16.5,
+    price: 16.50,
     type: "Tailand",
     picture: TomKhaGa
   },
@@ -44,7 +44,7 @@ const DUMMY_MEALS = [
     id: "m3",
     name: "Wonton Soup ",
     description: "Wontons are a type of Chinese dumpling. They’re made with ground meat wrapped in a dumpling wrapper and steamed until cooked and tender.",
-    price: 17.9,
+    price: 17.90,
     type: "Chinese",
     picture: Wanton
   },
@@ -52,7 +52,7 @@ const DUMMY_MEALS = [
     id: "m4",
     name: "Sashimi",
     description: "Sashimi is raw fish or meat that has been expertly cut into thin slices and typically comes served with daikon radish, pickled ginger, wasabi and soy sauce.",
-    price: 16.8,
+    price: 16.80,
     type: "Japanese",
     picture: Sashimi
   },
@@ -60,7 +60,7 @@ const DUMMY_MEALS = [
     id: "m5",
     name: "Bibimbap",
     description: "Warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well as soy sauce and a dollop of chilli pepper paste for seasoning. Ideal for seafood lovers",
-    price: 17.5,
+    price: 17.50,
     type: "Korean",
     picture: Bibimbap
   },
@@ -101,7 +101,7 @@ const DUMMY_MEALS = [
     id: "m10",
     name: "Shanghai Xiaolongbao",
     description: "Soup dumplings are traditionally made with a plain pork filling, while some versions contain a mixture of pork and crab",
-    price: 12.3,
+    price: 12.30,
     type: "Chinese",
     picture: xiaolongbao
   },
@@ -117,7 +117,7 @@ const DUMMY_MEALS = [
     id: "m12",
     name: "Tom Yum Goong",
     description: "Tom yum goong is created with quintessential Thai ingredients like lemongrass, chilli, galangal, kaffier lime leaves, shallots, fresh lime juice and plenty of fish sauce. Fresh prawns and mushrooms are added and coconut cream if you want the creamy version.",
-    price: 15.2,
+    price: 15.20,
     type: "Tailand",
     picture: Tom
   },
@@ -125,7 +125,7 @@ const DUMMY_MEALS = [
     id: "m13",
     name: "Samgyeopsal",
     description: "Korean dish that requires little culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table. It's then wrapped in lettuce or sesame leaf with dipping sauces and accompaniments such as button mushrooms, green chili peppers, green onions, raw onions and garlic, as well as kimchi.",
-    price: 14.3,
+    price: 14.30,
     type: "Korean",
     picture: chickin
   },
@@ -133,7 +133,7 @@ const DUMMY_MEALS = [
     id: "m14",
     name: "Khao Pad",
     description: "Khao pad is maybe comparable to England’s love of sandwiches – consumed on mass khao pad is a Thai go-to. Khao pad simply translates to “fried rice” and is just that with some egg, onion and that’s about it.",
-    price: 17.9,
+    price: 17.90,
     type: "Tailand",
     picture: Khao
   },
@@ -196,19 +196,19 @@ const AvailableMeals = () => {
   return (
     <section className={classes.meals}>
       <div className="site-button-ghost-wrapper">
-        <Button type="ghost" danger ghost onClick={handleAll} >
+        <Button type="ghost" danger ghost onClick={handleAll} style={{color: "white"}}>
           All(14)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleJap}>
+        <Button type="primary" danger ghost onClick={handleJap} style={{color: "white"}}>
           Japanese(5)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleChi}>
+        <Button type="primary" danger ghost onClick={handleChi} style={{color: "white"}}>
           Chinese(3)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleTai}>
+        <Button type="primary" danger ghost onClick={handleTai} style={{color: "white"}}>
           Tailand(3)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleKor}>
+        <Button type="primary" danger ghost onClick={handleKor} style={{color: "white"}}>
           Korean(3)
         </Button>&nbsp;&nbsp;&nbsp;
       </div>
