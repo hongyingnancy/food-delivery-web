@@ -84,7 +84,7 @@ const DUMMY_MEALS = [
     id: "m8",
     name: "Tteokbokki",
     description: "Traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce.",
-    price: 15.7,
+    price: 15.70,
     type: "Korean",
     picture: tteokbokki
   },
@@ -196,19 +196,19 @@ const AvailableMeals = () => {
   return (
     <section className={classes.meals}>
       <div className="site-button-ghost-wrapper">
-        <Button type="ghost" danger ghost onClick={handleAll} style={{color: "white"}}>
+        <Button type="ghost" danger ghost onClick={handleAll} >
           All(14)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleJap} style={{color: "white"}}>
+        <Button type="primary" danger ghost onClick={handleJap} >
           Japanese(5)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleChi} style={{color: "white"}}>
+        <Button type="primary" danger ghost onClick={handleChi} >
           Chinese(3)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleTai} style={{color: "white"}}>
+        <Button type="primary" danger ghost onClick={handleTai} >
           Tailand(3)
         </Button>&nbsp;&nbsp;&nbsp;
-        <Button type="primary" danger ghost onClick={handleKor} style={{color: "white"}}>
+        <Button type="primary" danger ghost onClick={handleKor} >
           Korean(3)
         </Button>&nbsp;&nbsp;&nbsp;
       </div>

@@ -44,7 +44,7 @@ const MealItemForm = (props) => {
         <button>Add</button>
         {!amountIsValid && <p>Please enter a number between 1-8.</p>}
       </form>
-      
+      <br></br>
       <div className={classes.price}>{`$`+props.price}</div>
     </Fragment>
   );
