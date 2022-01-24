@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/food-delivery-web/static/css/main.59834fe4.chunk.css",
+    "main.js": "/food-delivery-web/static/js/main.91e3f391.chunk.js",
+    "main.js.map": "/food-delivery-web/static/js/main.91e3f391.chunk.js.map",
+    "runtime-main.js": "/food-delivery-web/static/js/runtime-main.24784a46.js",
+    "runtime-main.js.map": "/food-delivery-web/static/js/runtime-main.24784a46.js.map",
+    "static/css/2.53b0ff91.chunk.css": "/food-delivery-web/static/css/2.53b0ff91.chunk.css",
+    "static/js/2.5652394c.chunk.js": "/food-delivery-web/static/js/2.5652394c.chunk.js",
+    "static/js/2.5652394c.chunk.js.map": "/food-delivery-web/static/js/2.5652394c.chunk.js.map",
+    "index.html": "/food-delivery-web/index.html",
+    "static/css/2.53b0ff91.chunk.css.map": "/food-delivery-web/static/css/2.53b0ff91.chunk.css.map",
+    "static/css/main.59834fe4.chunk.css.map": "/food-delivery-web/static/css/main.59834fe4.chunk.css.map",
+    "static/js/2.5652394c.chunk.js.LICENSE.txt": "/food-delivery-web/static/js/2.5652394c.chunk.js.LICENSE.txt",
+    "static/media/Bibimbap.3dcbe41c.jpeg": "/food-delivery-web/static/media/Bibimbap.3dcbe41c.jpeg",
+    "static/media/Dandan.03cc9d66.jpeg": "/food-delivery-web/static/media/Dandan.03cc9d66.jpeg",
+    "static/media/Khao.3d49c8e4.jpeg": "/food-delivery-web/static/media/Khao.3d49c8e4.jpeg",
+    "static/media/Okonomiyaki.ffee261e.jpeg": "/food-delivery-web/static/media/Okonomiyaki.ffee261e.jpeg",
+    "static/media/Sashimi.7aed9e58.jpeg": "/food-delivery-web/static/media/Sashimi.7aed9e58.jpeg",
+    "static/media/Sushi.d21c1a5c.jpeg": "/food-delivery-web/static/media/Sushi.d21c1a5c.jpeg",
+    "static/media/Takoyaki.77dd92f1.jpeg": "/food-delivery-web/static/media/Takoyaki.77dd92f1.jpeg",
+    "static/media/Tom.586f8c22.jpeg": "/food-delivery-web/static/media/Tom.586f8c22.jpeg",
+    "static/media/TomKhaGa.f7089b09.jpeg": "/food-delivery-web/static/media/TomKhaGa.f7089b09.jpeg",
+    "static/media/Unagi.1fbd8bfc.jpeg": "/food-delivery-web/static/media/Unagi.1fbd8bfc.jpeg",
+    "static/media/Wanton.74657e7a.jpeg": "/food-delivery-web/static/media/Wanton.74657e7a.jpeg",
+    "static/media/beef.0dc95d2e.jpeg": "/food-delivery-web/static/media/beef.0dc95d2e.jpeg",
+    "static/media/chickin.d54470e7.jpeg": "/food-delivery-web/static/media/chickin.d54470e7.jpeg",
+    "static/media/panda.fbcf2e47.jpeg": "/food-delivery-web/static/media/panda.fbcf2e47.jpeg",
+    "static/media/tteokbokki.73192bb4.jpeg": "/food-delivery-web/static/media/tteokbokki.73192bb4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24784a46.js",
+    "static/css/2.53b0ff91.chunk.css",
+    "static/js/2.5652394c.chunk.js",
+    "static/css/main.59834fe4.chunk.css",
+    "static/js/main.91e3f391.chunk.js"
+  ]
+}
